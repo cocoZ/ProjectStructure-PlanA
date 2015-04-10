@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Xcode
+#
+>>>>>>> 8b8081239f7dbd66ca75ae9b62a5a6e1d9c459ec
 build/
 *.pbxuser
 !default.pbxuser
@@ -14,6 +19,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+<<<<<<< HEAD
 *.annot
 *.cmo
 *.cma
@@ -35,6 +41,8 @@ _build/
 setup.data
 setup.log
 
+=======
+>>>>>>> 8b8081239f7dbd66ca75ae9b62a5a6e1d9c459ec
 
 # CocoaPods
 #
@@ -42,4 +50,8 @@ setup.log
 # you should judge for yourself, the pros and cons are mentioned at:
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
 #
+<<<<<<< HEAD
 # Pods/
+=======
+#Pods/
+>>>>>>> 8b8081239f7dbd66ca75ae9b62a5a6e1d9c459ec
